@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sabbir Ahmed  
-🚀 Software Engineer | ASP.NET Core | React | Flutter | MSSQL | MongoDB  
+🚀 Software Engineer | ASP.NET Core | React | Flutter | Bloc | MSSQL | MongoDB | Hive  
 
 ## 🌟 About Me
 - 💼 3+ years of experience in full-stack development  
